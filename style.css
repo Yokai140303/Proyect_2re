@@ -1,0 +1,48 @@
+body{
+    background-image: url(../assets/lzlprlza5kje1.jpeg);
+    background-size: 100%, 100%,;
+    font-family: 'Franklin Gothic Medium';
+    color: white;
+
+}
+
+header{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.content{
+    overflow: hidden;
+    margin: 20px;
+}
+
+.img{
+    padding: 0%;
+    margin: 20px;
+    float: right;
+    width: 28%;
+
+}
+
+.text{
+    float: left;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.footer{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    text-align: center;
+    justify-items: center;
+    font-size: 0.8rem;
+}
+
+.tbale{
+    border: 1px solid #ddd;
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
